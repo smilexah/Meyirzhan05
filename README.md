@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meyirzhan05
-- 👀 I’m interested in Front-End, ReactJS, Flutter Flow
+- 👀 I’m interested in Front-End, ReactJS, PHP, SQL
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Google😎
 - 📫 How to reach me smilexah@inbox.ru
