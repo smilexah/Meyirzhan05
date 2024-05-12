@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Google😎
 - 📫 How to reach me smilexah@inbox.ru
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smilexah&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smilexah&hide_progress=false)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilexah&theme=dark&show_icons=true)
 
 <!---
