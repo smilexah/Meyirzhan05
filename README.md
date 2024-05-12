@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Meyirzhan05
-- 👀 I’m interested in Front-End, ReactJS, PHP, SQL
-- 🌱 I’m currently learning ReactJS
+- 👋 Hi, I’m Meiirzhan.
+- 👀 I’m interested in Java, Spring, ReactJS.
+- 🌱 I’m currently learning Spring.
 - 💞️ I’m looking to collaborate on Google😎
 - 📫 How to reach me smilexah@inbox.ru
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smilexah&hide_progress=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilexah&theme=dark&show_icons=true)
 
 <!---
